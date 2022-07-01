@@ -1,0 +1,8 @@
+USB-HID=Template.X/*
+!USB-HID=Template.X/*.c
+!USB-HID=Template.X/*.h
+!USB-HID=Template.X/Makefile
+!USB-HID=Template.X/nbproject
+USB-HID=Template.X/nbproject/*
+!USB-HID=Template.X/nbproject/configurations.xml
+!USB-HID=Template.X/nbproject/project.xml
